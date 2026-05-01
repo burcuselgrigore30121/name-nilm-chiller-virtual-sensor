@@ -28,7 +28,7 @@ Physical sub-meters can fail silently. This project uses machine learning to est
 
 ## Repository structure
 
-paper/      - research paper PDF  
+scientific-article/      - research scientific article PDF  
 notebooks/  - main analysis notebook  
 src/        - future Python scripts  
 figures/    - exported plots and figures  
