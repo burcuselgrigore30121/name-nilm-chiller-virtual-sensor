@@ -33,7 +33,4 @@ notebooks/  - main analysis notebook
 src/        - future Python scripts  
 figures/    - exported plots and figures  
 
-## Security note
 
-API keys and raw private datasets are not included in this repository.
-Use .env.example as a template and create a local .env file if needed.
